@@ -1,0 +1,17 @@
+Phần 1
+1. bảng rủi ro
+Hạng mục | Rủi ro | Nguyên nhân | Xếp loại
+Business Plan | Cao | chỉ có 1 laptop, không backup (công nghệ) | Nguy hiểm
+Mã nguồn HTML/CSS | Cao | chỉ trên USB dễ hỏng (công nghệ) | Nguy hiểm
+Database test user | Trung bình | Excel cá nhân, bản cũ (tổ chức) | Cần sửa
+Slide Pitch | Trung bình | nhiều bản trên Zalo (tổ chức) | Cần sửa
+SRS Word | Trung bình | gửi email qua lại (tổ chức) | Cần sửa
+
+2. gọi là xung đột phiên bản (version conflict). mỗi người sửa 1 bản riêng rồi gửi qua lại nên sinh ra nhiều bản. hậu quả: không biết bản nào mới nhất, sửa chồng lên nhau, mất việc của người khác.
+
+Phần 2
+3. Local (Ctrl+S) > Auto Sync (Google Drive for desktop) > Cloud (Google Drive).
+Sync: thư mục CampusPay (Plan, Code, Docs, Slide).
+Không Sync: game, phim, file cá nhân.
+
+4. file chưa xong hiện biểu tượng 2 mũi tên xoay, xong mới có tích xanh. gập máy thì sync bị dừng, file chưa lên Cloud. cách làm: chờ tích xanh rồi mới gập máy.
